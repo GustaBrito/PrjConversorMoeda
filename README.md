@@ -61,7 +61,7 @@ Este projeto consiste em um **Conversor de Moedas multilíngue** com interface g
 
 ## 🔗 Link do Projeto
 
-➡️ [GitHub do Projeto](https://github.com/SeuUsuario/ConversorMoeda)
+➡️ [GitHub do Projeto](https://github.com/GustaBrito/PrjConversorMoeda)
 
 ---
 
