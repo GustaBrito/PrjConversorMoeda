@@ -2,8 +2,8 @@
 
 Este projeto consiste em um **Conversor de Moedas multilíngue** com interface gráfica intuitiva desenvolvida em **C# com WinForms**, integrando **APIs públicas** para fornecer **conversões de moedas em tempo real**.
 
-![Tela Inicial](./Inicio.png)
-![Conversão de Moeda](./Converter.png)
+![Tela Inicial](./FotosConversorMoeda/Inicio.png)
+![Conversão de Moeda](./FotosConversorMoeda/Converter.png)
 
 ---
 
@@ -51,7 +51,7 @@ Este projeto consiste em um **Conversor de Moedas multilíngue** com interface g
 ## 📎 Exemplo de Tela
 
 ### ✅ Conversão BRL → USD
-![Conversão Exemplo](./Converter.png)
+![Conversão Exemplo](./FotosConversorMoeda/Converter.png)
 
 ---
 
